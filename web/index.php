@@ -181,4 +181,3 @@ $index->init();
 // run application!
 $index->run();
 
-Test
